@@ -1,0 +1,7 @@
+C:\Users\Steve\source\repos\BasicMathConsoleApp\BasicMathConsoleApp\bin\Debug\BasicMathConsoleApp.exe.config
+C:\Users\Steve\source\repos\BasicMathConsoleApp\BasicMathConsoleApp\bin\Debug\BasicMathConsoleApp.exe
+C:\Users\Steve\source\repos\BasicMathConsoleApp\BasicMathConsoleApp\bin\Debug\BasicMathConsoleApp.pdb
+C:\Users\Steve\source\repos\BasicMathConsoleApp\BasicMathConsoleApp\obj\Debug\BasicMathConsoleApp.csprojAssemblyReference.cache
+C:\Users\Steve\source\repos\BasicMathConsoleApp\BasicMathConsoleApp\obj\Debug\BasicMathConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Steve\source\repos\BasicMathConsoleApp\BasicMathConsoleApp\obj\Debug\BasicMathConsoleApp.exe
+C:\Users\Steve\source\repos\BasicMathConsoleApp\BasicMathConsoleApp\obj\Debug\BasicMathConsoleApp.pdb

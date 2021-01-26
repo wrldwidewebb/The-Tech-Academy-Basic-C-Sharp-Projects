@@ -1,0 +1,7 @@
+C:\Users\Steve\source\repos\StringbuilderDrill\StringbuilderDrill\bin\Debug\StringbuilderDrill.exe.config
+C:\Users\Steve\source\repos\StringbuilderDrill\StringbuilderDrill\bin\Debug\StringbuilderDrill.exe
+C:\Users\Steve\source\repos\StringbuilderDrill\StringbuilderDrill\bin\Debug\StringbuilderDrill.pdb
+C:\Users\Steve\source\repos\StringbuilderDrill\StringbuilderDrill\obj\Debug\StringbuilderDrill.csprojAssemblyReference.cache
+C:\Users\Steve\source\repos\StringbuilderDrill\StringbuilderDrill\obj\Debug\StringbuilderDrill.csproj.CoreCompileInputs.cache
+C:\Users\Steve\source\repos\StringbuilderDrill\StringbuilderDrill\obj\Debug\StringbuilderDrill.exe
+C:\Users\Steve\source\repos\StringbuilderDrill\StringbuilderDrill\obj\Debug\StringbuilderDrill.pdb

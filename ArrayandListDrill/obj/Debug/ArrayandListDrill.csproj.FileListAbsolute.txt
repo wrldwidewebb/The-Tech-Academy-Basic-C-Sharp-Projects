@@ -1,7 +1,0 @@
-C:\Users\Steve\source\repos\ArrayandListDrill\ArrayandListDrill\bin\Debug\ArrayandListDrill.exe.config
-C:\Users\Steve\source\repos\ArrayandListDrill\ArrayandListDrill\bin\Debug\ArrayandListDrill.exe
-C:\Users\Steve\source\repos\ArrayandListDrill\ArrayandListDrill\bin\Debug\ArrayandListDrill.pdb
-C:\Users\Steve\source\repos\ArrayandListDrill\ArrayandListDrill\obj\Debug\ArrayandListDrill.csprojAssemblyReference.cache
-C:\Users\Steve\source\repos\ArrayandListDrill\ArrayandListDrill\obj\Debug\ArrayandListDrill.csproj.CoreCompileInputs.cache
-C:\Users\Steve\source\repos\ArrayandListDrill\ArrayandListDrill\obj\Debug\ArrayandListDrill.exe
-C:\Users\Steve\source\repos\ArrayandListDrill\ArrayandListDrill\obj\Debug\ArrayandListDrill.pdb

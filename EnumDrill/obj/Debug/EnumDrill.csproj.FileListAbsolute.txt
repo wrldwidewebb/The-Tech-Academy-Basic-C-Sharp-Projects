@@ -1,0 +1,7 @@
+C:\Users\Steve\source\repos\EnumDrill\EnumDrill\bin\Debug\EnumDrill.exe.config
+C:\Users\Steve\source\repos\EnumDrill\EnumDrill\bin\Debug\EnumDrill.exe
+C:\Users\Steve\source\repos\EnumDrill\EnumDrill\bin\Debug\EnumDrill.pdb
+C:\Users\Steve\source\repos\EnumDrill\EnumDrill\obj\Debug\EnumDrill.csprojAssemblyReference.cache
+C:\Users\Steve\source\repos\EnumDrill\EnumDrill\obj\Debug\EnumDrill.csproj.CoreCompileInputs.cache
+C:\Users\Steve\source\repos\EnumDrill\EnumDrill\obj\Debug\EnumDrill.exe
+C:\Users\Steve\source\repos\EnumDrill\EnumDrill\obj\Debug\EnumDrill.pdb

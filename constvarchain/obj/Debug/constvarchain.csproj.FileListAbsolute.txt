@@ -1,0 +1,7 @@
+C:\Users\Steve\source\repos\constvarchain\constvarchain\bin\Debug\constvarchain.exe.config
+C:\Users\Steve\source\repos\constvarchain\constvarchain\bin\Debug\constvarchain.exe
+C:\Users\Steve\source\repos\constvarchain\constvarchain\bin\Debug\constvarchain.pdb
+C:\Users\Steve\source\repos\constvarchain\constvarchain\obj\Debug\constvarchain.csprojAssemblyReference.cache
+C:\Users\Steve\source\repos\constvarchain\constvarchain\obj\Debug\constvarchain.csproj.CoreCompileInputs.cache
+C:\Users\Steve\source\repos\constvarchain\constvarchain\obj\Debug\constvarchain.exe
+C:\Users\Steve\source\repos\constvarchain\constvarchain\obj\Debug\constvarchain.pdb

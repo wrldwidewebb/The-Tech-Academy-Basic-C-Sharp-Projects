@@ -1,0 +1,17 @@
+﻿@using CodeFirst.Models
+@model List<Student>
+
+@{ ViewBag.Title = "Student";
+}
+
+<h3>Students</h3>
+
+<h5>List of Active Students:</h5>
+
+ 
+    @foreach(Student student
+      in Model)
+    {
+        @student.FirstName @student.LastName
+    }
+}

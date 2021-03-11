@@ -1,0 +1,12 @@
+C:\Users\Steve\Basic_C#_Programs\CodeFirsts\CodeFirsts\obj\Debug\CodeFirsts.csprojAssemblyReference.cache
+C:\Users\Steve\Basic_C#_Programs\CodeFirsts\CodeFirsts\obj\Debug\CodeFirsts.csproj.CoreCompileInputs.cache
+C:\Users\Steve\Basic_C#_Programs\CodeFirsts\CodeFirsts\bin\Debug\CodeFirsts.exe.config
+C:\Users\Steve\Basic_C#_Programs\CodeFirsts\CodeFirsts\bin\Debug\CodeFirsts.exe
+C:\Users\Steve\Basic_C#_Programs\CodeFirsts\CodeFirsts\bin\Debug\CodeFirsts.pdb
+C:\Users\Steve\Basic_C#_Programs\CodeFirsts\CodeFirsts\bin\Debug\EntityFramework.dll
+C:\Users\Steve\Basic_C#_Programs\CodeFirsts\CodeFirsts\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Steve\Basic_C#_Programs\CodeFirsts\CodeFirsts\bin\Debug\EntityFramework.xml
+C:\Users\Steve\Basic_C#_Programs\CodeFirsts\CodeFirsts\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Steve\Basic_C#_Programs\CodeFirsts\CodeFirsts\obj\Debug\CodeFirsts.csproj.CopyComplete
+C:\Users\Steve\Basic_C#_Programs\CodeFirsts\CodeFirsts\obj\Debug\CodeFirsts.exe
+C:\Users\Steve\Basic_C#_Programs\CodeFirsts\CodeFirsts\obj\Debug\CodeFirsts.pdb
